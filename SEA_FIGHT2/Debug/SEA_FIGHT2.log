@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\yargy\source\repos\sea_fight2\sea_fight2\main.cpp(15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\yargy\source\repos\sea_fight2\sea_fight2\main.cpp(21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\yargy\source\repos\sea_fight2\sea_fight2\main.cpp(254): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\yargy\source\repos\sea_fight2\sea_fight2\main.cpp(419): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  SEA_FIGHT2.vcxproj -> C:\Users\yargy\source\repos\SEA_FIGHT2\Debug\SEA_FIGHT2.exe
