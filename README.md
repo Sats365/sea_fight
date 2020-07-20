@@ -1,6 +1,6 @@
 # sea_fight
 В папке \SEA_FIGHT2\Debug находится .exe
-В папке \SEA_FIGHT2\Debug\Resurse находятся все рисунки для красивого меню 
+В папке \SEA_FIGHT2\Debug\Resurse находятся все рисунки для меню 
 В папке \SEA_FIGHT2\SEA_FIGHT2\Debug находятся файлы, которые создаются при компилировании
 В папке \SEA_FIGHT2\SEA_FIGHT2\Resurse находятся те же рисунки, но нужны они для компиляции 
 В папке \SEA_FIGHT2\SEA_FIGHT2 находятся все заголовочные файлы (.h) и фалы с кодом (.cpp)
